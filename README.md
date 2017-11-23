@@ -1,1 +1,1 @@
-# alurapic
+# Curse AngularJs.
